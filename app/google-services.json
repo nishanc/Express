@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805968420384",
+    "firebase_url": "https://express-20caa.firebaseio.com",
+    "project_id": "express-20caa",
+    "storage_bucket": "express-20caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805968420384:android:7f1e2dbce829d067",
+        "android_client_info": {
+          "package_name": "io.github.multiverseis.express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805968420384-tobvoh23j12818i6jsp6iu0p2i69b384.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.multiverseis.express",
+            "certificate_hash": "8196760df5e07b57dfa43ca61cd071c1479d4eed"
+          }
+        },
+        {
+          "client_id": "805968420384-v7h2je6gj6giaqns5pnplt6ec9ndpsqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQzRk5cNcX50gUa7FZX378gf-Ovw6upjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805968420384-v7h2je6gj6giaqns5pnplt6ec9ndpsqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
